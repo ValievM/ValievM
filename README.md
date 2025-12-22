@@ -60,8 +60,8 @@
 ## 📫 Контакты
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:workmail19102005@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![HeadHunter](https://img.shields.io/badge/-HeadHunter-FF0000?style=flat-square&logo=headhunter&logoColor=white)](https://hh.ru/resume/your-resume-id)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Wendigo957)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-FF0000?style=flat-square&logo=headhunter&logoColor=white)]([https://hh.ru/resume/](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30))
 
 ---
 
