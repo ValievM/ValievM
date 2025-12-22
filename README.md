@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Привет! Я Магомед
 
-<!--
-**Magomed-cmd/Magomed-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend-разработчик на Go | Студент ЮФУ | Решаю сложные технические задачи**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Backend:** Go, Gin, gRPC, REST API, Microservices  
+**Databases:** PostgreSQL, Redis  
+**DevOps:** Docker, CI/CD, k6 Load Testing  
+**Architecture:** Clean Architecture, Hexagonal Architecture  
+**Testing:** Unit, Integration, E2E testing
+
+---
+
+## 🚀 Топ проекты
+
+### 🏆 [PR Reviewer Assignment](https://github.com/Magomed-cmd/pr-reviewer-assignment)
+> **Тестовое задание Avito** | Микросервис автоназначения ревьюеров с Hexagonal Architecture  
+> `Go` `PostgreSQL` `Docker` `k6` `OpenAPI`
+
+### 🛒 [GoShop](https://github.com/Magomed-cmd/goshop) 
+> E-commerce backend с JWT-авторизацией, OAuth 2.0, кешированием Redis  
+> `Go` `Gin` `PostgreSQL` `Redis` `S3` `Clean Architecture`
+
+### 📱 [Subscriptions-API](https://github.com/Magomed-cmd/subscriptions-api)
+> **Тестовое задание Effective Mobile** | Сервис управления подписками  
+> `Go` `PostgreSQL` `REST API` `Migrations`
+
+### 🤖 [AI-API](https://github.com/Magomed-cmd/AI-API)
+> Сервис перевода с CI/CD и автоматическим деплоем на VPS  
+> `Go` `Docker` `OpenRouter API` `DevOps`
+
+---
+
+## 📊 GitHub статистика
+
+![Magomed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magomed-cmd&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magomed-cmd&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🎯 Сейчас
+
+- 🔍 **Активно ищу**: стажировку/junior позицию Go-разработчика
+- 📚 **Изучаю**: микросервисы, distributed systems, финтех
+- 💡 **Интересуюсь**: архитектурными паттернами, высокими нагрузками
+- 🎓 **Образование**: 3 курс ЮФУ, Программная инженерия
+
+---
+
+## 📫 Контакты
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:workmail19102005@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-FF0000?style=flat-square&logo=headhunter&logoColor=white)](https://hh.ru/resume/your-resume-id)
+
+---
+
+💼 Всегда открыт к интересным проектам и возможностям!
