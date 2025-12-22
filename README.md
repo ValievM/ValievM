@@ -42,6 +42,12 @@
 
 ---
 
+## 📊 Языки программирования
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magomed-cmd&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🎯 Сейчас
 
 - 🔍 **Активно ищу**: стажировку/junior позицию Go-разработчика
