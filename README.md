@@ -1,82 +1,53 @@
 # Привет! Я Магомед
 
-## Backend Developer | Go | Distributed Systems
-
-Backend-разработчик на Go с опытом разработки и поддержки production-сервисов.
-
-Фокус:
-- высоконагруженные backend-сервисы
-- микросервисная архитектура
-- API и интеграции
-- PostgreSQL и оптимизация запросов
-- надёжность систем и обработка бизнес-событий
-
-Люблю разбираться в сложных системах: от проектирования архитектуры до поиска узких мест в production.
+**Backend-разработчик на Go | Distributed Systems | High-load Backend**
 
 ---
 
-## Tech Stack
+## Технологии и инструменты
 
-### Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Go
-- Python
-- REST API
-- gRPC
-- WebSocket
-- Echo
-- FastAPI
-- Django
+**Backend:**  
+Go, Python, Echo, gRPC, REST API, WebSocket, FastAPI, Django
 
-### Databases & Storage
+**Databases:**  
+PostgreSQL, Redis, SQL, Database Design, Query Optimization
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Messaging:**  
+RabbitMQ, Kafka
 
-- PostgreSQL
-- Redis
-- SQL
-- Database design
-- Query optimization
-- Indexing
-- Transactions
+**DevOps:**  
+Docker, Docker Compose, Kubernetes, Linux, CI/CD, GitHub Actions
 
-### Infrastructure
+**Testing & Performance:**  
+Unit Testing, Integration Testing, E2E Testing, k6 Load Testing
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-- Docker / Docker Compose
-- Kubernetes basics
-- Linux
-- CI/CD
-- GitHub Actions
-- k6 Load Testing
-
-### Architecture
-
-- Clean Architecture
-- Hexagonal Architecture
-- SOLID
-- Design Patterns
-- Microservices
-- Event-driven systems
+**Architecture:**  
+Clean Architecture, Hexagonal Architecture, Microservices, Design Patterns
 
 ---
 
-# Experience
+# Опыт
 
 ## Backend Developer
 
-Работал над backend-сервисами с бизнес-критичными операциями:
+Разработка и поддержка backend-сервисов с высокой нагрузкой.
 
-- реализовал обработку событий с гарантией идемпотентности;
-- разработал транзакционную логику начислений в PostgreSQL;
-- создал gRPC API и streaming-методы;
-- оптимизировал SQL-запросы через EXPLAIN ANALYZE;
-- участвовал в нагрузочном тестировании сервисов.
+Основные задачи:
+
+- проектирование и разработка Go-сервисов;
+- обработка бизнес-событий с гарантией идемпотентности;
+- разработка gRPC API и streaming-методов;
+- работа с транзакциями PostgreSQL;
+- оптимизация SQL-запросов через EXPLAIN ANALYZE;
+- нагрузочное тестирование сервисов.
 
 Стек:
 
@@ -84,24 +55,27 @@ Backend-разработчик на Go с опытом разработки и �
 
 ---
 
-# Projects
+# Основные проекты
 
-## 🔥 PR Reviewer Assignment
 
-Высокопроизводительный сервис автоматического назначения ревьюеров.
+## 🚀 PR Reviewer Assignment
 
-Stack:
+Микросервис автоматического назначения ревьюеров.
+
+**Тестовое задание Avito**
 
 `Go` `PostgreSQL` `Docker` `k6` `OpenAPI`
 
 Особенности:
 
 - Hexagonal Architecture
-- unit/integration/E2E тесты
+- распределённая обработка задач
+- покрытие тестами
 - нагрузочное тестирование
-- p95 latency < 300ms
+
 
 Repository:
+
 https://github.com/ValievM/pr-reviewer-assignment
 
 
@@ -111,20 +85,19 @@ https://github.com/ValievM/pr-reviewer-assignment
 
 Backend интернет-магазина.
 
-Stack:
-
-`Go` `PostgreSQL` `Redis` `S3` `JWT`
+`Go` `Echo` `PostgreSQL` `Redis` `S3`
 
 Реализовано:
 
-- JWT authentication
-- Google OAuth2
-- Redis caching
-- S3 storage
-- REST API
+- JWT авторизация;
+- Google OAuth2;
+- Redis-кеширование;
+- файловое хранилище;
+- REST API.
 
 
 Repository:
+
 https://github.com/ValievM/goshop
 
 
@@ -132,11 +105,12 @@ https://github.com/ValievM/goshop
 
 ## 📦 Subscriptions API
 
-API управления подписками.
+REST API для управления подписками.
 
-Stack:
+**Тестовое задание Effective Mobile**
 
 `Go` `PostgreSQL` `REST API`
+
 
 Repository:
 
@@ -147,11 +121,9 @@ https://github.com/ValievM/subscriptions-api
 
 ## 🤖 AI API
 
-Backend-сервис интеграции с LLM API.
+Backend для работы с LLM API.
 
-Stack:
-
-`Go` `Docker` `OpenRouter API`
+`Go` `Docker` `OpenRouter API` `CI/CD`
 
 Repository:
 
@@ -160,31 +132,41 @@ https://github.com/ValievM/AI-API
 
 ---
 
-# Currently learning
+# GitHub Stats
 
-- Distributed systems
-- Cloud infrastructure
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+# Сейчас изучаю
+
+- Distributed Systems
 - Kubernetes
+- Cloud Infrastructure
 - Observability
-- System design
+- System Design
 
 
-# Education
+---
 
-South Federal University
+# Образование
 
-Software Engineering
+**Южный федеральный университет**
 
-2023 - 2027
+Институт компьютерных технологий и информационной безопасности
+
+Программная инженерия
+
+2023 — 2027
 
 
-# Contacts
+---
 
-GitHub:
-https://github.com/ValievM
+# Контакты
 
-Telegram:
-https://t.me/Wendigo957
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maga_valiev@inbox.ru)
 
-Email:
-maga_valiev@inbox.ru
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Wendigo957)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ValievM)
