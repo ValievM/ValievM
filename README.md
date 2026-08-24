@@ -1,64 +1,190 @@
 # Привет! Я Магомед
 
-**Backend-разработчик на Go | Студент ЮФУ | Решаю сложные технические задачи**
+## Backend Developer | Go | Distributed Systems
+
+Backend-разработчик на Go с опытом разработки и поддержки production-сервисов.
+
+Фокус:
+- высоконагруженные backend-сервисы
+- микросервисная архитектура
+- API и интеграции
+- PostgreSQL и оптимизация запросов
+- надёжность систем и обработка бизнес-событий
+
+Люблю разбираться в сложных системах: от проектирования архитектуры до поиска узких мест в production.
 
 ---
 
-## Технологии и инструменты
+## Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Backend:** Go, Echo, gRPC, REST API, FastAPI, WebSocket  
-**Databases:** PostgreSQL, Redis, SQL  
-**DevOps:** Docker, CI/CD, k6 Load Testing, Linux  
-**Architecture:** Clean Architecture, Hexagonal Architecture, Design Patterns  
-**Testing:** Unit Testing, Integration, E2E testing  
-**Other:** JSON API, HTTP, SaaS, API Gateway
+- Go
+- Python
+- REST API
+- gRPC
+- WebSocket
+- Echo
+- FastAPI
+- Django
+
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+- PostgreSQL
+- Redis
+- SQL
+- Database design
+- Query optimization
+- Indexing
+- Transactions
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+- Docker / Docker Compose
+- Kubernetes basics
+- Linux
+- CI/CD
+- GitHub Actions
+- k6 Load Testing
+
+### Architecture
+
+- Clean Architecture
+- Hexagonal Architecture
+- SOLID
+- Design Patterns
+- Microservices
+- Event-driven systems
 
 ---
 
-## Основные проекты
+# Experience
 
-### [PR Reviewer Assignment](https://github.com/Magomed-cmd/pr-reviewer-assignment)
-**Тестовое задание Avito** | Микросервис автоназначения ревьюеров с Hexagonal Architecture  
+## Backend Developer
+
+Работал над backend-сервисами с бизнес-критичными операциями:
+
+- реализовал обработку событий с гарантией идемпотентности;
+- разработал транзакционную логику начислений в PostgreSQL;
+- создал gRPC API и streaming-методы;
+- оптимизировал SQL-запросы через EXPLAIN ANALYZE;
+- участвовал в нагрузочном тестировании сервисов.
+
+Стек:
+
+`Go` `PostgreSQL` `gRPC` `RabbitMQ` `Docker` `Linux`
+
+---
+
+# Projects
+
+## 🔥 PR Reviewer Assignment
+
+Высокопроизводительный сервис автоматического назначения ревьюеров.
+
+Stack:
+
 `Go` `PostgreSQL` `Docker` `k6` `OpenAPI`
 
-### [GoShop](https://github.com/Magomed-cmd/goshop)
-E-commerce backend с JWT-авторизацией, OAuth 2.0, кешированием Redis  
-`Go` `Echo` `PostgreSQL` `Redis` `Yandex Cloud S3` `Clean Architecture`
+Особенности:
 
-### [Subscriptions-API](https://github.com/Magomed-cmd/subscriptions-api)
-**Тестовое задание Effective Mobile** | Сервис управления подписками  
-`Go` `PostgreSQL` `REST API` `Migrations`
+- Hexagonal Architecture
+- unit/integration/E2E тесты
+- нагрузочное тестирование
+- p95 latency < 300ms
 
-### [AI-API](https://github.com/Magomed-cmd/AI-API)
-Сервис перевода с CI/CD и автоматическим деплоем на VPS  
-`Go` `Docker` `OpenRouter API` `DevOps`
+Repository:
+https://github.com/ValievM/pr-reviewer-assignment
 
----
-
-## Статистика
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magomed-cmd&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## Текущий фокус
+## 🛒 GoShop
 
-- Активно ищу стажировку/junior позицию Go-разработчика
-- Изучаю микросервисы, distributed systems, финтех
-- Интересуюсь архитектурными паттернами, высокими нагрузками  
-- Образование: 3 курс ЮФУ, Программная инженерия
+Backend интернет-магазина.
+
+Stack:
+
+`Go` `PostgreSQL` `Redis` `S3` `JWT`
+
+Реализовано:
+
+- JWT authentication
+- Google OAuth2
+- Redis caching
+- S3 storage
+- REST API
+
+
+Repository:
+https://github.com/ValievM/goshop
+
 
 ---
 
-## Контакты
+## 📦 Subscriptions API
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:workmail19102005@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Wendigo957)
-[![HeadHunter](https://img.shields.io/badge/-HeadHunter-FF0000?style=flat-square&logo=headhunter&logoColor=white)](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30)
+API управления подписками.
+
+Stack:
+
+`Go` `PostgreSQL` `REST API`
+
+Repository:
+
+https://github.com/ValievM/subscriptions-api
+
+
+---
+
+## 🤖 AI API
+
+Backend-сервис интеграции с LLM API.
+
+Stack:
+
+`Go` `Docker` `OpenRouter API`
+
+Repository:
+
+https://github.com/ValievM/AI-API
+
+
+---
+
+# Currently learning
+
+- Distributed systems
+- Cloud infrastructure
+- Kubernetes
+- Observability
+- System design
+
+
+# Education
+
+South Federal University
+
+Software Engineering
+
+2023 - 2027
+
+
+# Contacts
+
+GitHub:
+https://github.com/ValievM
+
+Telegram:
+https://t.me/Wendigo957
+
+Email:
+maga_valiev@inbox.ru
