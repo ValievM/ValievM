@@ -1,6 +1,6 @@
 # Привет! Я Магомед
 
-**Backend-разработчик на Go | ЮФУ | Создаю надёжные backend-системы**
+**Backend-разработчик на Go | Студент ЮФУ | Решаю сложные технические задачи**
 
 ---
 
@@ -14,17 +14,53 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Backend:** Go, Echo, gRPC, REST API, WebSocket, Python, FastAPI, Django
+**Backend:** Go, Echo, gRPC, REST API, FastAPI, Django, WebSocket
 
 **Databases:** PostgreSQL, Redis, SQL
 
 **Messaging:** RabbitMQ, Kafka
 
-**DevOps:** Docker, Docker Compose, Kubernetes, Linux, CI/CD, GitHub Actions
+**DevOps:** Docker, Docker Compose, CI/CD, GitHub Actions, Linux, k6 Load Testing
 
 **Architecture:** Clean Architecture, Hexagonal Architecture, Design Patterns, Microservices
 
-**Testing:** Unit Testing, Integration Testing, E2E Testing, k6 Load Testing
+**Testing:** Unit Testing, Integration Testing, E2E Testing
+
+**Other:** JSON API, HTTP, SaaS, API Gateway
+
+---
+
+## Основные проекты
+
+### [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment)
+
+**Тестовое задание Avito** | Микросервис автоназначения ревьюеров с Hexagonal Architecture
+
+`Go` `PostgreSQL` `Docker` `k6` `OpenAPI`
+
+---
+
+### [GoShop](https://github.com/ValievM/goshop)
+
+E-commerce backend с JWT-авторизацией, OAuth 2.0, кешированием Redis
+
+`Go` `Echo` `PostgreSQL` `Redis` `Yandex Cloud S3` `Clean Architecture`
+
+---
+
+### [Subscriptions-API](https://github.com/ValievM/subscriptions-api)
+
+**Тестовое задание Effective Mobile** | Сервис управления подписками
+
+`Go` `PostgreSQL` `REST API` `Migrations`
+
+---
+
+### [AI-API](https://github.com/ValievM/AI-API)
+
+Сервис работы с LLM API с CI/CD и автоматическим деплоем на VPS
+
+`Go` `Docker` `OpenRouter API` `DevOps`
 
 ---
 
@@ -32,16 +68,14 @@
 
 ### Backend-разработчик
 
-Разработка и поддержка backend-сервисов с высокой нагрузкой.
+Разработка и поддержка backend-сервисов:
 
-Основные задачи:
-
-- проектирование и разработка Go-сервисов;
-- реализация бизнес-логики и интеграций между сервисами;
-- разработка gRPC и REST API;
-- работа с PostgreSQL и транзакциями;
+- обработка бизнес-событий в реальном времени;
+- реализация идемпотентной логики;
+- работа с транзакциями PostgreSQL;
+- разработка gRPC API и Streaming;
 - оптимизация SQL-запросов через EXPLAIN ANALYZE;
-- нагрузочное тестирование и улучшение производительности.
+- нагрузочное тестирование сервисов.
 
 Стек:
 
@@ -49,96 +83,29 @@
 
 ---
 
-## Основные проекты
-
-
-### [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment)
-
-**Тестовое задание Avito** | Микросервис автоматического назначения ревьюеров
-
-`Go` `PostgreSQL` `Docker` `k6` `OpenAPI`
-
-Особенности:
-
-- Hexagonal Architecture
-- REST API
-- покрытие unit/integration тестами
-- нагрузочное тестирование
-
-
----
-
-### [GoShop](https://github.com/ValievM/goshop)
-
-Backend интернет-магазина
-
-`Go` `Echo` `PostgreSQL` `Redis` `Yandex Cloud S3`
-
-Реализовано:
-
-- JWT авторизация;
-- Google OAuth2;
-- Redis-кеширование;
-- файловое хранилище;
-- REST API.
-
-
----
-
-### [Subscriptions-API](https://github.com/ValievM/subscriptions-api)
-
-**Тестовое задание Effective Mobile** | API управления подписками
-
-`Go` `PostgreSQL` `REST API` `Migrations`
-
-
----
-
-### [AI-API](https://github.com/ValievM/AI-API)
-
-Backend-сервис для работы с LLM API
-
-`Go` `Docker` `OpenRouter API` `CI/CD`
-
-
----
-
 ## Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
 ## Текущий фокус
 
-- Разработка backend-систем на Go
-- Микросервисная архитектура
-- Distributed systems
-- Высоконагруженные приложения
+- Разработка backend-сервисов на Go
+- Микросервисы и distributed systems
+- Высокие нагрузки и оптимизация производительности
+- Архитектурные паттерны
 - Cloud infrastructure
 - AI-интеграции
-
-
----
-
-## Образование
-
-**Южный федеральный университет**
-
-Институт компьютерных технологий и информационной безопасности
-
-Программная инженерия
-
-2023 — 2027
-
 
 ---
 
 ## Контакты
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maga_valiev@inbox.ru)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:workmail19102005@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Wendigo957)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ValievM)
+
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-FF0000?style=flat-square&logo=headhunter&logoColor=white)](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30)
