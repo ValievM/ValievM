@@ -1,6 +1,6 @@
 # Привет! Я Магомед
 
-**Backend-разработчик на Go | Distributed Systems | High-load Backend**
+**Backend-разработчик на Go | ЮФУ | Создаю надёжные backend-системы**
 
 ---
 
@@ -14,40 +14,34 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Backend:**  
-Go, Python, Echo, gRPC, REST API, WebSocket, FastAPI, Django
+**Backend:** Go, Echo, gRPC, REST API, WebSocket, Python, FastAPI, Django
 
-**Databases:**  
-PostgreSQL, Redis, SQL, Database Design, Query Optimization
+**Databases:** PostgreSQL, Redis, SQL
 
-**Messaging:**  
-RabbitMQ, Kafka
+**Messaging:** RabbitMQ, Kafka
 
-**DevOps:**  
-Docker, Docker Compose, Kubernetes, Linux, CI/CD, GitHub Actions
+**DevOps:** Docker, Docker Compose, Kubernetes, Linux, CI/CD, GitHub Actions
 
-**Testing & Performance:**  
-Unit Testing, Integration Testing, E2E Testing, k6 Load Testing
+**Architecture:** Clean Architecture, Hexagonal Architecture, Design Patterns, Microservices
 
-**Architecture:**  
-Clean Architecture, Hexagonal Architecture, Microservices, Design Patterns
+**Testing:** Unit Testing, Integration Testing, E2E Testing, k6 Load Testing
 
 ---
 
-# Опыт
+## Опыт работы
 
-## Backend Developer
+### Backend-разработчик
 
 Разработка и поддержка backend-сервисов с высокой нагрузкой.
 
 Основные задачи:
 
 - проектирование и разработка Go-сервисов;
-- обработка бизнес-событий с гарантией идемпотентности;
-- разработка gRPC API и streaming-методов;
-- работа с транзакциями PostgreSQL;
+- реализация бизнес-логики и интеграций между сервисами;
+- разработка gRPC и REST API;
+- работа с PostgreSQL и транзакциями;
 - оптимизация SQL-запросов через EXPLAIN ANALYZE;
-- нагрузочное тестирование сервисов.
+- нагрузочное тестирование и улучшение производительности.
 
 Стек:
 
@@ -55,37 +49,30 @@ Clean Architecture, Hexagonal Architecture, Microservices, Design Patterns
 
 ---
 
-# Основные проекты
+## Основные проекты
 
 
-## 🚀 PR Reviewer Assignment
+### [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment)
 
-Микросервис автоматического назначения ревьюеров.
-
-**Тестовое задание Avito**
+**Тестовое задание Avito** | Микросервис автоматического назначения ревьюеров
 
 `Go` `PostgreSQL` `Docker` `k6` `OpenAPI`
 
 Особенности:
 
 - Hexagonal Architecture
-- распределённая обработка задач
-- покрытие тестами
+- REST API
+- покрытие unit/integration тестами
 - нагрузочное тестирование
-
-
-Repository:
-
-https://github.com/ValievM/pr-reviewer-assignment
 
 
 ---
 
-## 🛒 GoShop
+### [GoShop](https://github.com/ValievM/goshop)
 
-Backend интернет-магазина.
+Backend интернет-магазина
 
-`Go` `Echo` `PostgreSQL` `Redis` `S3`
+`Go` `Echo` `PostgreSQL` `Redis` `Yandex Cloud S3`
 
 Реализовано:
 
@@ -96,61 +83,46 @@ Backend интернет-магазина.
 - REST API.
 
 
-Repository:
+---
 
-https://github.com/ValievM/goshop
+### [Subscriptions-API](https://github.com/ValievM/subscriptions-api)
+
+**Тестовое задание Effective Mobile** | API управления подписками
+
+`Go` `PostgreSQL` `REST API` `Migrations`
 
 
 ---
 
-## 📦 Subscriptions API
+### [AI-API](https://github.com/ValievM/AI-API)
 
-REST API для управления подписками.
-
-**Тестовое задание Effective Mobile**
-
-`Go` `PostgreSQL` `REST API`
-
-
-Repository:
-
-https://github.com/ValievM/subscriptions-api
-
-
----
-
-## 🤖 AI API
-
-Backend для работы с LLM API.
+Backend-сервис для работы с LLM API
 
 `Go` `Docker` `OpenRouter API` `CI/CD`
 
-Repository:
-
-https://github.com/ValievM/AI-API
-
 
 ---
 
-# GitHub Stats
+## Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
-# Сейчас изучаю
+## Текущий фокус
 
-- Distributed Systems
-- Kubernetes
-- Cloud Infrastructure
-- Observability
-- System Design
+- Разработка backend-систем на Go
+- Микросервисная архитектура
+- Distributed systems
+- Высоконагруженные приложения
+- Cloud infrastructure
+- AI-интеграции
 
 
 ---
 
-# Образование
+## Образование
 
 **Южный федеральный университет**
 
@@ -163,7 +135,7 @@ https://github.com/ValievM/AI-API
 
 ---
 
-# Контакты
+## Контакты
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maga_valiev@inbox.ru)
 
