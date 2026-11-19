@@ -1,30 +1,64 @@
-# Привет! Я Магомед
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:101827,60:15394A,100:11666A&amp;height=190&amp;text=%D0%9C%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B4&amp;fontSize=108&amp;fontColor=ECFEFF&amp;fontAlignY=50" width="100%" alt="Магомед">
+</h1>
 
-**Backend-разработчик на Go · 4-й курс ЮФУ, «Программная инженерия»**
+<p align="center">
+  <strong>Go Backend Developer</strong> · 4-й курс ЮФУ, «Программная инженерия»
+</p>
 
-Ищу стажировку или junior-позицию Go-разработчика. Интересуюсь распределёнными системами, высокими нагрузками и финтехом.
+<p align="center">
+  <a href="https://t.me/Wendigo957"><img src="https://img.shields.io/badge/Telegram-164E63?style=for-the-badge&amp;logo=telegram&amp;logoColor=BAE6FD" alt="Telegram"></a>
+  <a href="mailto:workmail19102005@gmail.com"><img src="https://img.shields.io/badge/Email-164E63?style=for-the-badge&amp;logo=gmail&amp;logoColor=BAE6FD" alt="Email"></a>
+  <a href="https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30"><img src="https://img.shields.io/badge/hh.ru-164E63?style=for-the-badge" alt="Резюме на hh.ru"></a>
+</p>
 
-## Проекты
+Пишу API и сервисы на Go. В личных проектах делаю приложения для macOS и Android. Интересуюсь распределёнными системами, нагрузочным тестированием и финтехом.
 
-- [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment) — микросервис на Go для автоматического назначения ревьюеров на pull request. Тестовое задание Avito.
-- [GoShop](https://github.com/ValievM/goshop) — REST API интернет-магазина на Go с PostgreSQL, Redis и OAuth 2.0.
-- [FlowPilot](https://github.com/ValievM/flowpilot) — личный планировщик задач для macOS на Electron и TypeScript.
-- [gost](https://github.com/ValievM/gost) — генерация учебных отчётов по ГОСТ 7.32 в Node.js с поддержкой DOCX, PlantUML и Excel.
-- [notebook-rs](https://github.com/ValievM/notebook-rs) — исследовательский блокнот на Rust с ответами по источникам и проверкой цитат.
-- [phone-agent](https://github.com/ValievM/phone-agent) — Android-приложение с чатом Codex и инструментами для работы с телефоном. Kotlin, Jetpack Compose.
-- [practicum-task-solver](https://github.com/ValievM/practicum-task-solver) — расширение Chrome для автоматизации прохождения заданий Яндекс Практикума. JavaScript.
+**Ищу стажировку или junior-позицию Go-разработчика.**
 
-## Технологии
+## ⚡ Стек
 
-- **Backend** — Go, Echo, REST API, gRPC, WebSocket
-- **Данные** — PostgreSQL, Redis, SQL
-- **Инструменты** — Docker, Linux, Git, CI/CD, k6
-- **Архитектура и тестирование** — Clean Architecture, Hexagonal Architecture, unit-, интеграционные и E2E-тесты
+![Go](https://img.shields.io/badge/Go-164E63?style=flat-square&logo=go&logoColor=BAE6FD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=BAE6FD)
+![Redis](https://img.shields.io/badge/Redis-1E293B?style=flat-square&logo=redis&logoColor=BAE6FD)
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=BAE6FD)
+![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=BAE6FD)
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=BAE6FD)
+![k6](https://img.shields.io/badge/k6-1E293B?style=flat-square&logo=k6&logoColor=BAE6FD)
 
-## Статистика
+**API** · Echo, REST, gRPC, WebSocket  
+**Архитектура** · Clean Architecture, Hexagonal Architecture  
+**Тестирование и доставка** · unit-, интеграционные и E2E-тесты, CI/CD
 
-[![Языки на GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Проекты
 
-## Контакты
+### [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment)
 
-[Telegram](https://t.me/Wendigo957) · [Email](mailto:workmail19102005@gmail.com) · [Резюме на hh.ru](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30)
+Сервис назначает и заменяет ревьюеров на pull request с учётом команд и активности участников. Тестовое задание Avito.  
+`Go` `PostgreSQL` `Docker` `OpenAPI` `k6`
+
+### [GoShop](https://github.com/ValievM/goshop)
+
+REST API интернет-магазина с каталогом, корзиной, заказами и входом через Google.  
+`Go` `Echo` `PostgreSQL` `Redis` `S3`
+
+### [FlowPilot](https://github.com/ValievM/flowpilot)
+
+Планировщик для macOS, в котором видно, что делать сейчас, сегодня и позже.  
+`Electron` `TypeScript`
+
+**Другие проекты**
+
+- 📄 [gost](https://github.com/ValievM/gost) — генерация отчётов по ГОСТ 7.32 в Node.js. DOCX, PlantUML и Excel.
+- 📚 [notebook-rs](https://github.com/ValievM/notebook-rs) — исследовательский блокнот на Rust. Отвечает по загруженным источникам и сверяет цитаты с оригиналом.
+- 📱 [phone-agent](https://github.com/ValievM/phone-agent) — чат с Codex на Android с инструментами для будильников, уведомлений и поиска файлов. Kotlin, Jetpack Compose.
+- 🧩 [practicum-task-solver](https://github.com/ValievM/practicum-task-solver) — расширение Chrome на JavaScript для автоматизации работы с тренажёром Яндекс Практикума.
+
+## 📊 Языки в репозиториях
+
+<a href="https://github.com/ValievM?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&amp;layout=compact&amp;locale=ru&amp;hide_title=true&amp;bg_color=101827&amp;text_color=E2E8F0&amp;border_color=30465D&amp;border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&amp;layout=compact&amp;locale=ru&amp;hide_title=true&amp;bg_color=F2F8FC&amp;text_color=243449&amp;border_color=C8DCE9&amp;border_radius=10" alt="Распределение языков в публичных репозиториях Магомеда">
+  </picture>
+</a>
