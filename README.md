@@ -1,58 +1,65 @@
-# Привет, я Магомед
+# Привет! Я Магомед
 
-**Backend-разработчик на Go** · 4-й курс ЮФУ, «Программная инженерия»
+**Backend-разработчик на Go | Студент ЮФУ | Решаю сложные технические задачи**
 
-[![Telegram](https://img.shields.io/badge/Telegram-164E63?style=for-the-badge&logo=telegram&logoColor=BAE6FD)](https://t.me/Wendigo957)
-[![Email](https://img.shields.io/badge/Email-164E63?style=for-the-badge&logo=gmail&logoColor=BAE6FD)](mailto:workmail19102005@gmail.com)
-[![Резюме на hh.ru](https://img.shields.io/badge/hh.ru-164E63?style=for-the-badge)](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30)
+---
 
-Пишу API и сервисы на Go. В личных проектах делаю приложения для macOS и Android. Интересуюсь распределёнными системами, нагрузочным тестированием и финтехом.
+## Технологии и инструменты
 
-**Ищу стажировку или junior-позицию Go-разработчика.**
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## ⚡ Стек
+**Backend** · Go, Echo, gRPC, REST API, FastAPI, WebSocket  
+**Databases** · PostgreSQL, Redis, SQL  
+**DevOps** · Docker, CI/CD, k6, Linux  
+**Architecture** · Clean Architecture, Hexagonal Architecture, Design Patterns  
+**Testing** · Unit, Integration, E2E  
+**Other** · JSON API, HTTP, SaaS, API Gateway
 
-![Go](https://img.shields.io/badge/Go-164E63?style=flat-square&logo=go&logoColor=BAE6FD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=BAE6FD)
-![Redis](https://img.shields.io/badge/Redis-1E293B?style=flat-square&logo=redis&logoColor=BAE6FD)
-![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=BAE6FD)
-![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=BAE6FD)
-![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=BAE6FD)
-![k6](https://img.shields.io/badge/k6-1E293B?style=flat-square&logo=k6&logoColor=BAE6FD)
+---
 
-**API** · Echo, REST, gRPC, WebSocket  
-**Архитектура** · Clean Architecture, Hexagonal Architecture  
-**Тестирование и доставка** · unit-, интеграционные и E2E-тесты, CI/CD
+## Основные проекты
 
-## 🛠 Проекты
+### 📚 [notebook-rs](https://github.com/ValievM/notebook-rs)
 
-### [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment)
+Исследовательский блокнот на Rust. Отвечает по загруженным источникам и сверяет цитаты с оригиналом.  
+`Rust` `SQLite`
 
-Сервис назначает и заменяет ревьюеров на pull request с учётом команд и активности участников. Тестовое задание Avito.  
-`Go` `PostgreSQL` `Docker` `OpenAPI` `k6`
+### 📱 [phone-agent](https://github.com/ValievM/phone-agent)
 
-### [GoShop](https://github.com/ValievM/goshop)
+Чат с Codex на Android с инструментами для будильников, уведомлений и поиска файлов.  
+`Kotlin` `Jetpack Compose`
 
-REST API интернет-магазина с каталогом, корзиной, заказами и входом через Google.  
-`Go` `Echo` `PostgreSQL` `Redis` `S3`
+### Другие проекты
 
-### [FlowPilot](https://github.com/ValievM/flowpilot)
+- [GoShop](https://github.com/ValievM/goshop) — REST API интернет-магазина с каталогом, корзиной, заказами и входом через Google. `Go` `Echo` `PostgreSQL` `Redis` `S3`
+- [PR Reviewer Assignment](https://github.com/ValievM/pr-reviewer-assignment) — сервис назначения и замены ревьюеров на pull request. Тестовое задание Avito. `Go` `PostgreSQL` `Docker` `OpenAPI` `k6`
+- [gost](https://github.com/ValievM/gost) — генерация отчётов по ГОСТ 7.32 с поддержкой DOCX, PlantUML и Excel. `TypeScript` `Node.js`
+- [practicum-task-solver](https://github.com/ValievM/practicum-task-solver) — расширение Chrome для автоматизации работы с тренажёром Яндекс Практикума. `JavaScript`
 
-Планировщик для macOS, в котором видно, что делать сейчас, сегодня и позже.  
-`Electron` `TypeScript`
+---
 
-**Другие проекты**
+## Статистика
 
-- 📄 [gost](https://github.com/ValievM/gost) — генерация отчётов по ГОСТ 7.32 в Node.js. DOCX, PlantUML и Excel.
-- 📚 [notebook-rs](https://github.com/ValievM/notebook-rs) — исследовательский блокнот на Rust. Отвечает по загруженным источникам и сверяет цитаты с оригиналом.
-- 📱 [phone-agent](https://github.com/ValievM/phone-agent) — чат с Codex на Android с инструментами для будильников, уведомлений и поиска файлов. Kotlin, Jetpack Compose.
-- 🧩 [practicum-task-solver](https://github.com/ValievM/practicum-task-solver) — расширение Chrome на JavaScript для автоматизации работы с тренажёром Яндекс Практикума.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 Языки в репозиториях
+---
 
-<a href="https://github.com/ValievM?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&amp;layout=compact&amp;locale=ru&amp;hide_title=true&amp;bg_color=101827&amp;text_color=E2E8F0&amp;border_color=30465D&amp;border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValievM&amp;layout=compact&amp;locale=ru&amp;hide_title=true&amp;bg_color=F2F8FC&amp;text_color=243449&amp;border_color=C8DCE9&amp;border_radius=10" alt="Распределение языков в публичных репозиториях Магомеда">
-  </picture>
-</a>
+## Текущий фокус
+
+- Ищу стажировку или junior-позицию Go-разработчика
+- Изучаю микросервисы и распределённые системы
+- Интересуюсь архитектурными паттернами, высокими нагрузками и финтехом
+- Учусь на 4-м курсе ЮФУ по направлению «Программная инженерия»
+
+---
+
+## Контакты
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:workmail19102005@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Wendigo957)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-FF0000?style=flat-square)](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30)
