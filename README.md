@@ -1,16 +1,10 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:101827,60:15394A,100:11666A&amp;height=190&amp;text=%D0%9C%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B4&amp;fontSize=108&amp;fontColor=ECFEFF&amp;fontAlignY=50" width="100%" alt="Магомед">
-</h1>
+# Привет, я Магомед
 
-<p align="center">
-  <strong>Go Backend Developer</strong> · 4-й курс ЮФУ, «Программная инженерия»
-</p>
+**Backend-разработчик на Go** · 4-й курс ЮФУ, «Программная инженерия»
 
-<p align="center">
-  <a href="https://t.me/Wendigo957"><img src="https://img.shields.io/badge/Telegram-164E63?style=for-the-badge&amp;logo=telegram&amp;logoColor=BAE6FD" alt="Telegram"></a>
-  <a href="mailto:workmail19102005@gmail.com"><img src="https://img.shields.io/badge/Email-164E63?style=for-the-badge&amp;logo=gmail&amp;logoColor=BAE6FD" alt="Email"></a>
-  <a href="https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30"><img src="https://img.shields.io/badge/hh.ru-164E63?style=for-the-badge" alt="Резюме на hh.ru"></a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-164E63?style=for-the-badge&logo=telegram&logoColor=BAE6FD)](https://t.me/Wendigo957)
+[![Email](https://img.shields.io/badge/Email-164E63?style=for-the-badge&logo=gmail&logoColor=BAE6FD)](mailto:workmail19102005@gmail.com)
+[![Резюме на hh.ru](https://img.shields.io/badge/hh.ru-164E63?style=for-the-badge)](https://taganrog.hh.ru/resume/e414783bff0fa558ad0039ed1f7049424b6b30)
 
 Пишу API и сервисы на Go. В личных проектах делаю приложения для macOS и Android. Интересуюсь распределёнными системами, нагрузочным тестированием и финтехом.
 
